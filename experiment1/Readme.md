@@ -1,6 +1,6 @@
 #experment 1
 ##java program on defaultvalues
-'''java
+```java
 public class DefaultValues {
     byte b;
     short s;
@@ -24,4 +24,4 @@ public class DefaultValues {
         
     }
 }
-'''
+```
