@@ -26,3 +26,6 @@ public class DefaultValues {
     }
 }
 ```
+#output
+[exp1a.png]
+
